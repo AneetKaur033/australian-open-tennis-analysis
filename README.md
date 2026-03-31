@@ -74,7 +74,6 @@ Bolton, and Daphne Akhurst.
 
 | File | Description |
 |------|-------------|
-| `Australian_Open_Analysis_Report.pdf` | Full written report |
 | `AneetKaur_25038579_A2.xlsx` | Dataset with calculated columns |
 | `AneetKaur_25038579_A2.twbx` | Packaged Tableau workbook (open with Tableau Desktop) |
 | `*.png` | Exported visualisation screenshots |
